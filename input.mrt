@@ -1,0 +1,11 @@
+purnsankhya k;
+k = 5;
+jar (k == 5) {
+    k = k + 1;
+} nahitar {
+    k = k - 1;
+}
+nivad (k) {
+    prakaran 6: k = k * 2;
+    mulbhut: k = 0;
+}
